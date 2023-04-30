@@ -1,6 +1,6 @@
 # Video Frame Overlay
 
-This script, `video_frame_overlay.py`, adds an image overlay to a video and saves the result as a new video file.
+This script, `video_frame_overlay.py`, adds an image overlay to every single frame of a video and saves the result as a new video file.
 
 ## Requirements
 
