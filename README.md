@@ -8,6 +8,10 @@ This script, `overlay_video.py`, adds an image overlay to a video and saves the 
 - OpenCV
 - moviepy
 
+## Installation
+
+1. Install the required packages by running: `pip install -r requirements.txt`.
+
 ## Usage
 
 1. Place your video file in the `input` directory and name it `video.mp4`.
